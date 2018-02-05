@@ -1,0 +1,16 @@
+﻿body {
+    padding: 10px;
+}
+
+label {
+    vertical-align: top;
+}
+
+label, input, select, textarea {
+    margin: 5px;
+    vertical-align: top;
+}
+
+button {
+    margin: 5px;
+}
