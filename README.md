@@ -13,7 +13,7 @@
 
 <h4><u>User Interface</u></h4>
 <p>
-	src="https://github.com/codenroller/JavaScript-PracticalProject-1/blob/master/images/ui.png">
+	<img src="https://github.com/codenroller/JavaScript-PracticalProject-1/blob/master/images/ui.png">
 </p>
 
 
